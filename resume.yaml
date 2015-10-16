@@ -1,0 +1,99 @@
+---
+basics:
+  name: Andrew Valencik
+  label: Programmer
+  picture: 'https://photos-5.dropbox.com/t/2/AADt1WtZokgrjRhXNNp_1dUOcMaf8xiQksWYDetzN8iSAg/12/18752266/jpeg/32x32/1/1444964400/0/2/Andrew-Hackaweek-Headshot.jpg/CIrG-AggASACIAMgBSAHKAEoAigH/p99KOLPB-72pDlQZyea2GtYjEgwY5id2KPRb_kWLKFE?size=800x600&size_mode=2'
+  email: andrew.valencik@gmail.com
+  phone: "(902) 802-4869"
+  website: 'http://github.com/valencik'
+  summary: I am a very enthusiastic and dedicated problem solver with a love for technology
+    and passion for teaching people how to use it. I have over eight years of technical
+    support experience and five years experience in research and systems building
+    in academia.
+  location:
+    address: 1-1354 Queen Street
+    postalCode: B3J 2H5
+    city: Halifax
+    countryCode: CA
+    region: Nova Scotia
+  profiles:
+  - network: Twitter
+    username: valencik
+    url: ''
+  - network: GitHub
+    username: valencik
+    url: https://github.com/valencik
+
+work:
+- company: Saint Mary's University Mathematics and Computing Science Department
+  position: System Administrator
+  website: 'http://cs.smu.ca'
+  startDate: '2011-09-06'
+  summary: Maintenance and operation of departmental hardware and software. Providing
+    technical support and problem solving for faculty and staff. Assisting in technical
+    research needs and advising on purchases for research or departmental use.
+  highlights:
+  - Architected and deployed a private cloud for research and education
+- company: Saint Mary's University Computing Science Department
+  position: Part Time Faculty
+  website: 'http://cs.smu.ca'
+  startDate: '2012-09-01'
+  summary: Redesigned and taught the third year Operating Systems course. Helped develop
+    and subsequently teach the lab for SMU's Game Programming course. Remotely instructed
+    High School teachers for the first year programming in Java lab.
+
+education:
+- institution: Saint Mary's University
+  area: Applied Science
+  studyType: Masters
+  startDate: '2013-01-01'
+  endDate: '2015-12-18'
+- institution: Saint Mary's University
+  area: Physics
+  studyType: Bachelor of Science with honours
+  startDate: '2011-06-01'
+  endDate: '2012-05-18'
+- institution: Saint Mary's University
+  area: Engineering
+  studyType: Diploma
+  startDate: '2011-06-01'
+  endDate: '2012-05-18'
+
+awards:
+- title: NSERC Representatives’ Undergraduate Student Award
+  date: '2014-11-01'
+  awarder: Science Atlantic Undergraduate Physics & Astronomy Conference
+  summary: This award is presented to the student (or students) giving the best research presentation(s) at an annual Science Atlantic conference.
+  website: 'https://scienceatlantic.ca/committees/physics/aupacwinners2012/'
+
+skills:
+- name: Data Manipulation
+  level: Master
+  keywords:
+  - Regex
+  - Python
+  - Vim
+- name: System Management
+  level: Master
+  keywords:
+  - Ubuntu
+  - Bash/Zsh
+  - OpenNebula
+- name: Web Development
+  level: Intermediate
+  keywords:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - D3.JS
+  - Flask (Python)
+  - Express (NodeJS)
+
+languages:
+- language: English
+  fluency: Native speaker
+
+interests:
+- name: Cycling
+  keywords:
+  - Cyclocross
