@@ -6,10 +6,8 @@ basics:
   email: andrew.valencik@gmail.com
   phone: "(902) 802-4869"
   website: 'http://github.com/valencik'
-  summary: I am a very enthusiastic and dedicated problem solver with a love for technology
-    and passion for teaching people how to use it. I have over eight years of technical
-    support experience and five years experience in research and systems building
-    in academia.
+  summary: I am a very enthusiastic and dedicated problem solver with a love for technology and passion for teaching people how to use it.
+    I have over eight years of technical support experience and five years experience in research and systems building in academia.
   location:
     address: 1-1354 Queen Street
     postalCode: B3J 2H5
@@ -29,18 +27,51 @@ work:
   position: System Administrator
   website: 'http://cs.smu.ca'
   startDate: '2011-09-06'
-  summary: Maintenance and operation of departmental hardware and software. Providing
-    technical support and problem solving for faculty and staff. Assisting in technical
-    research needs and advising on purchases for research or departmental use.
+  summary: Maintenance and operation of departmental hardware and software.
+    Providing technical support and problem solving for faculty and staff.
+    Assisting in technical research needs and advising on purchases for research or departmental use.
   highlights:
   - Architected and deployed a private cloud for research and education
 - company: Saint Mary's University Computing Science Department
   position: Part Time Faculty
   website: 'http://cs.smu.ca'
   startDate: '2012-09-01'
-  summary: Redesigned and taught the third year Operating Systems course. Helped develop
-    and subsequently teach the lab for SMU's Game Programming course. Remotely instructed
-    High School teachers for the first year programming in Java lab.
+  summary: Redesigned and taught the third year Operating Systems course.
+    Helped develop and subsequently teach the lab for SMU's Game Programming course.
+    Remotely instructed High School teachers for the first year programming in Java lab.
+- company: Saint Mary's University
+  position: Part Time Faculty in Computing Science
+  startDate: '2012'
+  summary: Redesigned and taught the third year Operating Systems course.
+    Helped develop and subsequently teach the lab for SMU's Game Programming course.
+    Remotely instructed High School teachers for the first year programming in Java lab.
+- company: Saint Mary's University
+  position: Undergraduate Nuclear Physics Researcher
+  startDate: '2010'
+  endDate: '2011'
+  summary: Conducted physics research at TRIUMF, Canada's national laboratory for particle and nuclear physics.
+    Presented results at the national Canadian Undergraduate Physics Conference 2010.
+    Won internal prize among the Saint Mary’s Astronomy and Physics department.
+    Required manipulating large amounts of data and scientific computer programming on remote systems.
+- company: Saint Mary's University
+  position: Help Desk Staff
+  startDate: '2010'
+  endDate: '2011'
+  summary: Helped students, staff, and faculty with networking issues, personal computer problems, and issues relating to Saint Mary's systems.
+    All work was logged a with collaborative ticketing system.
+- company: Saint Mary's University
+  position: ITSS Lab Assistant
+  startDate: '2009'
+  endDate: '2010'
+  summary: Lab assistant for the public computer labs at Saint Mary's University.
+    Required some diagnostic testing on malfunctioning systems and producing reports.
+- company: Staples
+  position: Resident Technician
+  startDate: '2007'
+  endDate: '2009'
+  summary: Responsible for all customer computer systems.
+    Required a competitive knowledge of computer hardware and software troubleshooting.
+    Dealt with customers on a one-to-one basis, determining their needs and offering a mutually benefiting solution.
 
 education:
 - institution: Saint Mary's University
