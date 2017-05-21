@@ -2,14 +2,18 @@
 basics:
   name: Andrew Valencik
   label: Programmer
-  picture: 'https://photos-5.dropbox.com/t/2/AADt1WtZokgrjRhXNNp_1dUOcMaf8xiQksWYDetzN8iSAg/12/18752266/jpeg/32x32/1/1444964400/0/2/Andrew-Hackaweek-Headshot.jpg/CIrG-AggASACIAMgBSAHKAEoAigH/p99KOLPB-72pDlQZyea2GtYjEgwY5id2KPRb_kWLKFE?size=800x600&size_mode=2'
+  picture: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAe6AAAAJGVkM2M4NTJjLWMzZDUtNGJkOC04MTczLTExYTExZTQwYzYyNg.jpg'
   email: andrew.valencik@gmail.com
   phone: "(902) 802-4869"
   website: 'http://github.com/valencik'
-  summary: I am a very enthusiastic and dedicated problem solver with a love for technology
-    and passion for teaching people how to use it. I have over eight years of technical
-    support experience and five years experience in research and systems building
-    in academia.
+  summary: I am a very enthusiastic and dedicated problem solver with a passion for science, technology, and learning.
+    After attacking a problem, successful or not, I love teaching others about it.
+    I enjoy working in a team to dig through and understand complex systems, whether social networks, natural language, or nuclear physics.
+    #I enjoy digging through and understanding complex systems, whether social networks, natural language, or nuclear physics.
+    #I am a very enthusiastic and dedicated problem solver with a love for technology and passion for teaching people how to use it.
+    #Endlessly curious, I enjoying solving problems at all levels of the stack.
+    #I have a keen desire to always be learning and building systems to help others.
+    #I have over nine years of technical support experience and six years experience in research and systems building in academia.
   location:
     address: 1-1354 Queen Street
     postalCode: B3J 2H5
@@ -19,81 +23,156 @@ basics:
   profiles:
   - network: Twitter
     username: valencik
-    url: ''
+    url: https://twitter.com/valencik
   - network: GitHub
     username: valencik
     url: https://github.com/valencik
+  - network: LinkedIn
+    username: Andrew Valencik
+    url: http://linkedin.com/in/andrew-valencik-472b2aa4/
 
 work:
-- company: Saint Mary's University Mathematics and Computing Science Department
-  position: System Administrator
-  website: 'http://cs.smu.ca'
-  startDate: '2011-09-06'
-  summary: Maintenance and operation of departmental hardware and software. Providing
-    technical support and problem solving for faculty and staff. Assisting in technical
-    research needs and advising on purchases for research or departmental use.
+- company: Affinio Inc
+  position: Data Scientist
+  website: 'http://www.affinio.com'
+  startDate: '2015-12-01'
+  summary: Data Scientist, Data Engineer, Data Systems Architect, Data [a-zA-Z0-9]+
   highlights:
-  - Architected and deployed a private cloud for research and education
+    - Collaboratively researched and developed new products to surface insights in social data
+    - Designed and built systems for web document clustering and natural language processing
+    - Managed cloud infrastructure and deployments using Azure, DC/OS, Docker, Ansible
+    - Created data pipelines using Spark, Hadoop, and a mix of many languages
+    - Implemented DevOps practices (CI, single code base) to increase developer productivity
+    - Championed simplification of legacy systems and reducing bus factors
+
 - company: Saint Mary's University Computing Science Department
   position: Part Time Faculty
   website: 'http://cs.smu.ca'
   startDate: '2012-09-01'
-  summary: Redesigned and taught the third year Operating Systems course. Helped develop
-    and subsequently teach the lab for SMU's Game Programming course. Remotely instructed
-    High School teachers for the first year programming in Java lab.
+  summary: Instructor for various technical courses in the Computing Science department
+  highlights:
+    - "Managing Information Technology and Systems"
+    - "Operating Systems"
+    - "Introduction to Programming"
+
+- company: Saint Mary's University Mathematics and Computing Science Department
+  position: System Administrator
+  website: 'http://cs.smu.ca'
+  startDate: '2011-09-06'
+  endDate: '2016-01-08'
+  summary: IT support role involving the creation and maintenance of systems to support faculty and students
+  highlights:
+    - Built and deployed a private cloud for research and educational use
+    - Obsessively automated server setup and maintenance tasks
+    - Managed various research and production databases
+    - Provided technical support and problem solving for faculty and staff
+    - Assisted in technical research needs and advised on purchases for research or departmental use
 
 education:
 - institution: Saint Mary's University
   area: Applied Science
   studyType: Masters
+# gpa: "4.3"
   startDate: '2013-01-01'
   endDate: '2015-12-18'
+  courses:
+    - Thesis
+    - Data Mining
+    - Digital Radiometry
+    - Research Techniques
+
 - institution: Saint Mary's University
   area: Physics
-  studyType: Bachelor of Science with honours
-  startDate: '2011-06-01'
+  studyType: Bachelor of Science
+  startDate: '2007-09-01'
   endDate: '2012-05-18'
+
 - institution: Saint Mary's University
   area: Engineering
   studyType: Diploma
-  startDate: '2011-06-01'
+  startDate: '2007-09-01'
   endDate: '2012-05-18'
 
 awards:
 - title: NSERC Representatives’ Undergraduate Student Award
-  date: '2014-11-01'
+#  date: '2012-02-05'
   awarder: Science Atlantic Undergraduate Physics & Astronomy Conference
   summary: This award is presented to the student (or students) giving the best research presentation(s) at an annual Science Atlantic conference.
   website: 'https://scienceatlantic.ca/committees/physics/aupacwinners2012/'
+#- title: 1st Place Atlantic Engineering Competition Senior Design
+#  date: '2010-02-01'
+#- title: 1st Place Atlantic Engineering Competition Senior Design
+#  date: '2009-02-01'
+
+volunteer:
+- organization: Data Science Meetup
+  position: Organizer
+  summary: A local meetup for data scientists to chat and occasionally teach others
+  startDate: '2015-11-04'
+#- organization: Saint Mary's University Engineering Society
+#  position: Vice President Internal
+#  startDate: '2008-09-01'
+#  endDate: '2010-04-30'
 
 skills:
-- name: Data Manipulation
+- name: Data (Small)
   level: Master
   keywords:
-  - Regex
+  - regex
+  - awk
   - Python
   - Vim
+  - grep
+  - sed
+  - jq
+- name: Data (Big)
+  level: Advanced
+  keywords:
+  - Spark
+  - Hadoop
+- name: NLP
+  level: Advanced
+  keywords:
+  - Topic Modeling
+  - NER
+  - word2vec
+  - wordnet
+  - NLTK
+  - geoparsing
 - name: System Management
   level: Master
   keywords:
-  - Ubuntu
-  - Bash/Zsh
+  - '*nix'
+  - Ansible
+  - Bash
   - OpenNebula
-- name: Web Development
-  level: Intermediate
+  - Docker
+- name: Cloud
+  level: Advanced
   keywords:
-  - HTML5
-  - CSS3
-  - JavaScript
-  - D3.JS
-  - Flask (Python)
-  - Express (NodeJS)
-
-languages:
-- language: English
-  fluency: Native speaker
+  - Azure-ARM
+  - Azure-Blob
+  - Azure-CosmosDB
+  - AWS-EC2
+  - AWS-SQS
+  - AWS-S3
+  - DC/OS
+- name: Programming
+  level: Advanced
+  keywords:
+  - Scala
+  - Python
+  - Bash
 
 interests:
-- name: Cycling
+- name: Masochism
   keywords:
-  - Cyclocross
+  - Bash one-liners
+  - Vim regex
+  - for comprehensions
+- name: Down Time
+  keywords:
+  - Dodgeball
+  - Biking
+  - Homebrewing
+  - Video Games
