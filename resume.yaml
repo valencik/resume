@@ -11,7 +11,7 @@ basics:
     I enjoy working in a team to dig through and understand complex systems, whether social networks, natural language, or nuclear physics.
     #I enjoy digging through and understanding complex systems, whether social networks, natural language, or nuclear physics.
     #I am a very enthusiastic and dedicated problem solver with a love for technology and passion for teaching people how to use it.
-    #Endlessly curious, I enjoying solving problems at all levels of the stack.
+    #Endlessly curious, I enjoy solving problems at all levels of the stack.
     #I have a keen desire to always be learning and building systems to help others.
     #I have over nine years of technical support experience and six years experience in research and systems building in academia.
   location:
@@ -38,12 +38,14 @@ work:
   startDate: '2015-12-01'
   summary: Data Scientist, Data Engineer, Data Systems Architect, Data [a-zA-Z0-9]+
   highlights:
-    - Collaboratively researched and developed new products to surface insights in social data
-    - Designed and built systems for web document clustering and natural language processing
+    - Designed and built systems using data science that advanced business outcomes by enabling users to analyze data
+    - Proven ability to manage complex, time sensitive projects that directly improved strategic partnerships
+    #- Collaboratively researched and developed new products to surface insights in social data
+    - Led and championed major effects to simplify legacy systems and reduce bus factors
     - Managed cloud infrastructure and deployments using Azure, DC/OS, Docker, Ansible
     - Created data pipelines using Spark, Hadoop, and a mix of many languages
     - Implemented DevOps practices (CI, single code base) to increase developer productivity
-    - Championed simplification of legacy systems and reducing bus factors
+    #- Designed and built systems for web document clustering and natural language processing
 
 - company: Saint Mary's University Computing Science Department
   position: Part Time Faculty
@@ -51,9 +53,11 @@ work:
   startDate: '2012-09-01'
   summary: Instructor for various technical courses in the Computing Science department
   highlights:
-    - "Managing Information Technology and Systems"
-    - "Operating Systems"
-    - "Introduction to Programming"
+    - 'Instructor for MCDA5570: Managing Information Technology and Systems (2016, 2017)'
+    - 'Instructor for CSCI3431: Operating Systems (2014)'
+    - 'Lab instructor for CSCI3830: Introduction to Game Development (2014)'
+    - 'Lab instructor for CSCI3431: Operating Systems (2012, 2013)'
+    - 'Lab assistant for CSCI1226: Introduction to Programming (2013)'
 
 - company: Saint Mary's University Mathematics and Computing Science Department
   position: System Administrator
@@ -62,11 +66,12 @@ work:
   endDate: '2016-01-08'
   summary: IT support role involving the creation and maintenance of systems to support faculty and students
   highlights:
+    - Planned and executed all department server purchases, software licenses, and other IT equipment
+    - Provided technical support, research assistance, and system consulting
+    - Managed various research and production databases, submission systems, and web servers
+    - Organized academic conferences, hackathons, and programming competitions
     - Built and deployed a private cloud for research and educational use
     - Obsessively automated server setup and maintenance tasks
-    - Managed various research and production databases
-    - Provided technical support and problem solving for faculty and staff
-    - Assisted in technical research needs and advised on purchases for research or departmental use
 
 education:
 - institution: Saint Mary's University
@@ -95,14 +100,15 @@ education:
 
 awards:
 - title: NSERC Representatives’ Undergraduate Student Award
-#  date: '2012-02-05'
+  date: '2012-02-05'
   awarder: Science Atlantic Undergraduate Physics & Astronomy Conference
-  summary: This award is presented to the student (or students) giving the best research presentation(s) at an annual Science Atlantic conference.
   website: 'https://scienceatlantic.ca/committees/physics/aupacwinners2012/'
-#- title: 1st Place Atlantic Engineering Competition Senior Design
-#  date: '2010-02-01'
-#- title: 1st Place Atlantic Engineering Competition Senior Design
-#  date: '2009-02-01'
+- title: 1st Place Senior Design
+  awarder: Atlantic Engineering Competition
+  date: '2010-02-01'
+- title: 1st Place Senior Design
+  awarder: Atlantic Engineering Competition
+  date: '2009-02-01'
 
 volunteer:
 - organization: Data Science Meetup
@@ -121,7 +127,6 @@ skills:
   - regex
   - awk
   - Python
-  - Vim
   - grep
   - sed
   - jq
@@ -165,14 +170,18 @@ skills:
   - Bash
 
 interests:
-- name: Masochism
-  keywords:
-  - Bash one-liners
-  - Vim regex
-  - for comprehensions
 - name: Down Time
   keywords:
   - Dodgeball
   - Biking
   - Homebrewing
   - Video Games
+- name: Programming
+  keywords:
+  - Hackathons
+  - Teaching
+#- name: Masochism
+#  keywords:
+#  - Bash one-liners
+#  - Vim regex
+#  - for comprehensions
