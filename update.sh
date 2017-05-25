@@ -4,4 +4,4 @@ python yaml-resume-to-json.py \
   && resume export web/index.html -t stackoverflow \
   && resume export web/short.html -t short \
   && resume export web/crisp.html -t crisp \
-  && scp web/* cs:~/public_html/resume/
+  && scp resume.yaml web/* cs:~/public_html/resume/
