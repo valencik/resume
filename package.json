@@ -1,0 +1,12 @@
+{
+  "name": "yaml-resume",
+  "version": "0.1",
+  "description": "A YAML approach to JSON Resume",
+  "main": "index.js",
+  "repository": "git@github.com:valencik/resume.git",
+  "author": "Andrew Valencik <andrew.valencik@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.9.0"
+  }
+}
